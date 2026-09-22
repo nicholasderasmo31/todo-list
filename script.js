@@ -43,3 +43,5 @@ sortBtn.addEventListener("click", () => {
 clearBtn.addEventListener("click", () => {
     // add your code here
 });
+
+
