@@ -1,11 +1,13 @@
 body {
     font-family: system-ui, sans-serif;
     max-width: 600px;
+    text-align: center;
     margin: 2rem auto;
 }
 
 header {
     margin-bottom: 1rem;
+     text-align: center;
 }
 
 form,
@@ -13,22 +15,54 @@ form,
     display: flex;
     gap: .5rem;
     margin: .5rem 0;
+     text-align: center;
 }
 
 input,
 button {
-    padding: .5rem .75rem;
+    padding: .99rem .99rem;
+     text-align: center;
 }
 
 ul {
     padding-left: 1rem;
+     text-align: center;
 }
 
 li {
     margin: .25rem 0;
+     text-align: center;
+      text-align: center;
 }
 
 .empty {
     opacity: .6;
     font-style: italic;
+     text-align: center;
 }
+
+h1,
+ #list {
+    font-family: 'Minecraft', sans-serif;
+     text-align: center;
+     background-color: white;
+     padding: 15px 20px;
+     border-radius: 0px;
+     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+ }
+
+
+
+ button {
+    font-family: 'Minecraft', sans-serif;
+     text-align: center;
+}
+
+ul {
+    font-family: 'Minecraft', sans-serif;
+     text-align: center;
+}
+
+
+
+body {background-image: url("dirt.jpg")}
